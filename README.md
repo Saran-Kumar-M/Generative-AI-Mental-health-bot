@@ -2,7 +2,7 @@
 
 An intelligent, calming chatbot built with **React + Tailwind CSS + TypeScript**, powered by **Meta's LLaMA 3** running locally. It includes chat functionality, mood tracking, and light/dark themes — designed to offer a helpful and empathetic experience for mental well-being.
 
-![Screenshot](./public/vite.svg)
+![Screenshot](./public/bot.png)
 
 ---
 
