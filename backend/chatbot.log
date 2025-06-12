@@ -1,0 +1,588 @@
+2025-06-11 10:33:50,196 - main - INFO - New request from 127.0.0.1
+2025-06-11 10:33:50,196 - main - INFO - Processing message: User (feeling tired): I'm feeling really tired today....
+2025-06-11 10:33:50,196 - main - INFO - Attempt 1 with model llama3:latest
+2025-06-11 10:33:50,326 - main - INFO - Command executed in 0.13s: ollama run --temperature 0.7 llama3:latest You are Jarvis, a compassionate mental health assistant with training in CBT and mindfulness techniques. 
+Provide supportive, non-judgmental advice. Keep responses professional but warm (2-3 sentences). 
+Focus on active listening and helpful suggestions.
+
+Current conversation:
+User: User (feeling tired): I'm feeling really tired today.
+
+Jarvis:
+2025-06-11 10:33:50,327 - main - INFO - Attempt 1 with model llama3:8b
+2025-06-11 10:33:50,374 - main - INFO - Command executed in 0.05s: ollama run --temperature 0.7 llama3:8b You are Jarvis, a compassionate mental health assistant with training in CBT and mindfulness techniques. 
+Provide supportive, non-judgmental advice. Keep responses professional but warm (2-3 sentences). 
+Focus on active listening and helpful suggestions.
+
+Current conversation:
+User: User (feeling tired): I'm feeling really tired today.
+
+Jarvis:
+2025-06-11 10:33:50,374 - main - INFO - Attempt 1 with model llama3:70b
+2025-06-11 10:33:50,424 - main - INFO - Command executed in 0.05s: ollama run --temperature 0.7 llama3:70b You are Jarvis, a compassionate mental health assistant with training in CBT and mindfulness techniques. 
+Provide supportive, non-judgmental advice. Keep responses professional but warm (2-3 sentences). 
+Focus on active listening and helpful suggestions.
+
+Current conversation:
+User: User (feeling tired): I'm feeling really tired today.
+
+Jarvis:
+2025-06-11 10:33:50,424 - main - INFO - Attempt 2 with model llama3:latest
+2025-06-11 10:33:50,462 - main - INFO - Command executed in 0.04s: ollama run --temperature 0.7 llama3:latest You are Jarvis, a compassionate mental health assistant with training in CBT and mindfulness techniques. 
+Provide supportive, non-judgmental advice. Keep responses professional but warm (2-3 sentences). 
+Focus on active listening and helpful suggestions.
+
+Current conversation:
+User: User (feeling tired): I'm feeling really tired today.
+
+Jarvis:
+2025-06-11 10:33:50,462 - main - INFO - Attempt 2 with model llama3:8b
+2025-06-11 10:33:50,501 - main - INFO - Command executed in 0.04s: ollama run --temperature 0.7 llama3:8b You are Jarvis, a compassionate mental health assistant with training in CBT and mindfulness techniques. 
+Provide supportive, non-judgmental advice. Keep responses professional but warm (2-3 sentences). 
+Focus on active listening and helpful suggestions.
+
+Current conversation:
+User: User (feeling tired): I'm feeling really tired today.
+
+Jarvis:
+2025-06-11 10:33:50,502 - main - INFO - Attempt 2 with model llama3:70b
+2025-06-11 10:33:50,541 - main - INFO - Command executed in 0.04s: ollama run --temperature 0.7 llama3:70b You are Jarvis, a compassionate mental health assistant with training in CBT and mindfulness techniques. 
+Provide supportive, non-judgmental advice. Keep responses professional but warm (2-3 sentences). 
+Focus on active listening and helpful suggestions.
+
+Current conversation:
+User: User (feeling tired): I'm feeling really tired today.
+
+Jarvis:
+2025-06-11 10:33:50,541 - main - INFO - Attempt 3 with model llama3:latest
+2025-06-11 10:33:50,579 - main - INFO - Command executed in 0.04s: ollama run --temperature 0.7 llama3:latest You are Jarvis, a compassionate mental health assistant with training in CBT and mindfulness techniques. 
+Provide supportive, non-judgmental advice. Keep responses professional but warm (2-3 sentences). 
+Focus on active listening and helpful suggestions.
+
+Current conversation:
+User: User (feeling tired): I'm feeling really tired today.
+
+Jarvis:
+2025-06-11 10:33:50,580 - main - INFO - Attempt 3 with model llama3:8b
+2025-06-11 10:33:50,617 - main - INFO - Command executed in 0.04s: ollama run --temperature 0.7 llama3:8b You are Jarvis, a compassionate mental health assistant with training in CBT and mindfulness techniques. 
+Provide supportive, non-judgmental advice. Keep responses professional but warm (2-3 sentences). 
+Focus on active listening and helpful suggestions.
+
+Current conversation:
+User: User (feeling tired): I'm feeling really tired today.
+
+Jarvis:
+2025-06-11 10:33:50,618 - main - INFO - Attempt 3 with model llama3:70b
+2025-06-11 10:33:50,654 - main - INFO - Command executed in 0.04s: ollama run --temperature 0.7 llama3:70b You are Jarvis, a compassionate mental health assistant with training in CBT and mindfulness techniques. 
+Provide supportive, non-judgmental advice. Keep responses professional but warm (2-3 sentences). 
+Focus on active listening and helpful suggestions.
+
+Current conversation:
+User: User (feeling tired): I'm feeling really tired today.
+
+Jarvis:
+2025-06-11 10:33:50,655 - main - ERROR - All model attempts failed
+2025-06-11 10:44:06,228 - main - INFO - New request from 127.0.0.1
+2025-06-11 10:44:06,228 - main - INFO - Processing message: User (feeling Excited): dsadas...
+2025-06-11 10:44:06,228 - main - INFO - Attempt 1 with model llama3:latest
+2025-06-11 10:44:06,286 - main - INFO - Command executed in 0.06s: ollama run --temperature 0.7 llama3:latest You are Jarvis, a compassionate mental health assistant with training in CBT and mindfulness techniques. 
+Provide supportive, non-judgmental advice. Keep responses professional but warm (2-3 sentences). 
+Focus on active listening and helpful suggestions.
+
+Current conversation:
+User: User (feeling Excited): dsadas
+
+Jarvis:
+2025-06-11 10:44:06,287 - main - INFO - Attempt 1 with model llama3:8b
+2025-06-11 10:44:06,330 - main - INFO - Command executed in 0.04s: ollama run --temperature 0.7 llama3:8b You are Jarvis, a compassionate mental health assistant with training in CBT and mindfulness techniques. 
+Provide supportive, non-judgmental advice. Keep responses professional but warm (2-3 sentences). 
+Focus on active listening and helpful suggestions.
+
+Current conversation:
+User: User (feeling Excited): dsadas
+
+Jarvis:
+2025-06-11 10:44:06,331 - main - INFO - Attempt 1 with model llama3:70b
+2025-06-11 10:44:06,379 - main - INFO - Command executed in 0.05s: ollama run --temperature 0.7 llama3:70b You are Jarvis, a compassionate mental health assistant with training in CBT and mindfulness techniques. 
+Provide supportive, non-judgmental advice. Keep responses professional but warm (2-3 sentences). 
+Focus on active listening and helpful suggestions.
+
+Current conversation:
+User: User (feeling Excited): dsadas
+
+Jarvis:
+2025-06-11 10:44:06,379 - main - INFO - Attempt 2 with model llama3:latest
+2025-06-11 10:44:06,421 - main - INFO - Command executed in 0.04s: ollama run --temperature 0.7 llama3:latest You are Jarvis, a compassionate mental health assistant with training in CBT and mindfulness techniques. 
+Provide supportive, non-judgmental advice. Keep responses professional but warm (2-3 sentences). 
+Focus on active listening and helpful suggestions.
+
+Current conversation:
+User: User (feeling Excited): dsadas
+
+Jarvis:
+2025-06-11 10:44:06,421 - main - INFO - Attempt 2 with model llama3:8b
+2025-06-11 10:44:06,463 - main - INFO - Command executed in 0.04s: ollama run --temperature 0.7 llama3:8b You are Jarvis, a compassionate mental health assistant with training in CBT and mindfulness techniques. 
+Provide supportive, non-judgmental advice. Keep responses professional but warm (2-3 sentences). 
+Focus on active listening and helpful suggestions.
+
+Current conversation:
+User: User (feeling Excited): dsadas
+
+Jarvis:
+2025-06-11 10:44:06,463 - main - INFO - Attempt 2 with model llama3:70b
+2025-06-11 10:44:06,505 - main - INFO - Command executed in 0.04s: ollama run --temperature 0.7 llama3:70b You are Jarvis, a compassionate mental health assistant with training in CBT and mindfulness techniques. 
+Provide supportive, non-judgmental advice. Keep responses professional but warm (2-3 sentences). 
+Focus on active listening and helpful suggestions.
+
+Current conversation:
+User: User (feeling Excited): dsadas
+
+Jarvis:
+2025-06-11 10:44:06,505 - main - INFO - Attempt 3 with model llama3:latest
+2025-06-11 10:44:06,546 - main - INFO - Command executed in 0.04s: ollama run --temperature 0.7 llama3:latest You are Jarvis, a compassionate mental health assistant with training in CBT and mindfulness techniques. 
+Provide supportive, non-judgmental advice. Keep responses professional but warm (2-3 sentences). 
+Focus on active listening and helpful suggestions.
+
+Current conversation:
+User: User (feeling Excited): dsadas
+
+Jarvis:
+2025-06-11 10:44:06,546 - main - INFO - Attempt 3 with model llama3:8b
+2025-06-11 10:44:06,586 - main - INFO - Command executed in 0.04s: ollama run --temperature 0.7 llama3:8b You are Jarvis, a compassionate mental health assistant with training in CBT and mindfulness techniques. 
+Provide supportive, non-judgmental advice. Keep responses professional but warm (2-3 sentences). 
+Focus on active listening and helpful suggestions.
+
+Current conversation:
+User: User (feeling Excited): dsadas
+
+Jarvis:
+2025-06-11 10:44:06,586 - main - INFO - Attempt 3 with model llama3:70b
+2025-06-11 10:44:06,625 - main - INFO - Command executed in 0.04s: ollama run --temperature 0.7 llama3:70b You are Jarvis, a compassionate mental health assistant with training in CBT and mindfulness techniques. 
+Provide supportive, non-judgmental advice. Keep responses professional but warm (2-3 sentences). 
+Focus on active listening and helpful suggestions.
+
+Current conversation:
+User: User (feeling Excited): dsadas
+
+Jarvis:
+2025-06-11 10:44:06,626 - main - ERROR - All model attempts failed
+2025-06-11 10:48:46,689 - main - INFO - New request from 127.0.0.1
+2025-06-11 10:48:46,689 - main - INFO - Processing message: User (feeling happy): I'm feeling happy today!...
+2025-06-11 10:48:46,689 - main - INFO - Attempt 1 with model llama3:latest
+2025-06-11 10:48:46,731 - main - INFO - Command executed in 0.04s: ollama run --temperature 0.7 llama3:latest You are Jarvis, a compassionate mental health assistant with training in CBT and mindfulness techniques. 
+Provide supportive, non-judgmental advice. Keep responses professional but warm (2-3 sentences). 
+Focus on active listening and helpful suggestions.
+
+Current conversation:
+User: User (feeling happy): I'm feeling happy today!
+
+Jarvis:
+2025-06-11 10:48:46,731 - main - INFO - Attempt 1 with model llama3:8b
+2025-06-11 10:48:46,787 - main - INFO - Command executed in 0.06s: ollama run --temperature 0.7 llama3:8b You are Jarvis, a compassionate mental health assistant with training in CBT and mindfulness techniques. 
+Provide supportive, non-judgmental advice. Keep responses professional but warm (2-3 sentences). 
+Focus on active listening and helpful suggestions.
+
+Current conversation:
+User: User (feeling happy): I'm feeling happy today!
+
+Jarvis:
+2025-06-11 10:48:46,787 - main - INFO - Attempt 1 with model llama3:70b
+2025-06-11 10:48:46,835 - main - INFO - Command executed in 0.05s: ollama run --temperature 0.7 llama3:70b You are Jarvis, a compassionate mental health assistant with training in CBT and mindfulness techniques. 
+Provide supportive, non-judgmental advice. Keep responses professional but warm (2-3 sentences). 
+Focus on active listening and helpful suggestions.
+
+Current conversation:
+User: User (feeling happy): I'm feeling happy today!
+
+Jarvis:
+2025-06-11 10:48:46,835 - main - INFO - Attempt 2 with model llama3:latest
+2025-06-11 10:48:46,875 - main - INFO - Command executed in 0.04s: ollama run --temperature 0.7 llama3:latest You are Jarvis, a compassionate mental health assistant with training in CBT and mindfulness techniques. 
+Provide supportive, non-judgmental advice. Keep responses professional but warm (2-3 sentences). 
+Focus on active listening and helpful suggestions.
+
+Current conversation:
+User: User (feeling happy): I'm feeling happy today!
+
+Jarvis:
+2025-06-11 10:48:46,875 - main - INFO - Attempt 2 with model llama3:8b
+2025-06-11 10:48:46,912 - main - INFO - Command executed in 0.04s: ollama run --temperature 0.7 llama3:8b You are Jarvis, a compassionate mental health assistant with training in CBT and mindfulness techniques. 
+Provide supportive, non-judgmental advice. Keep responses professional but warm (2-3 sentences). 
+Focus on active listening and helpful suggestions.
+
+Current conversation:
+User: User (feeling happy): I'm feeling happy today!
+
+Jarvis:
+2025-06-11 10:48:46,912 - main - INFO - Attempt 2 with model llama3:70b
+2025-06-11 10:48:46,953 - main - INFO - Command executed in 0.04s: ollama run --temperature 0.7 llama3:70b You are Jarvis, a compassionate mental health assistant with training in CBT and mindfulness techniques. 
+Provide supportive, non-judgmental advice. Keep responses professional but warm (2-3 sentences). 
+Focus on active listening and helpful suggestions.
+
+Current conversation:
+User: User (feeling happy): I'm feeling happy today!
+
+Jarvis:
+2025-06-11 10:48:46,953 - main - INFO - Attempt 3 with model llama3:latest
+2025-06-11 10:48:46,995 - main - INFO - Command executed in 0.04s: ollama run --temperature 0.7 llama3:latest You are Jarvis, a compassionate mental health assistant with training in CBT and mindfulness techniques. 
+Provide supportive, non-judgmental advice. Keep responses professional but warm (2-3 sentences). 
+Focus on active listening and helpful suggestions.
+
+Current conversation:
+User: User (feeling happy): I'm feeling happy today!
+
+Jarvis:
+2025-06-11 10:48:46,995 - main - INFO - Attempt 3 with model llama3:8b
+2025-06-11 10:48:47,036 - main - INFO - Command executed in 0.04s: ollama run --temperature 0.7 llama3:8b You are Jarvis, a compassionate mental health assistant with training in CBT and mindfulness techniques. 
+Provide supportive, non-judgmental advice. Keep responses professional but warm (2-3 sentences). 
+Focus on active listening and helpful suggestions.
+
+Current conversation:
+User: User (feeling happy): I'm feeling happy today!
+
+Jarvis:
+2025-06-11 10:48:47,036 - main - INFO - Attempt 3 with model llama3:70b
+2025-06-11 10:48:47,076 - main - INFO - Command executed in 0.04s: ollama run --temperature 0.7 llama3:70b You are Jarvis, a compassionate mental health assistant with training in CBT and mindfulness techniques. 
+Provide supportive, non-judgmental advice. Keep responses professional but warm (2-3 sentences). 
+Focus on active listening and helpful suggestions.
+
+Current conversation:
+User: User (feeling happy): I'm feeling happy today!
+
+Jarvis:
+2025-06-11 10:48:47,077 - main - ERROR - All model attempts failed
+2025-06-11 10:48:47,078 - main - INFO - New request from 127.0.0.1
+2025-06-11 10:48:47,078 - main - INFO - Processing message: User (feeling sad): I'm feeling sad right now....
+2025-06-11 10:48:47,079 - main - INFO - Attempt 1 with model llama3:latest
+2025-06-11 10:48:47,125 - main - INFO - Command executed in 0.05s: ollama run --temperature 0.7 llama3:latest You are Jarvis, a compassionate mental health assistant with training in CBT and mindfulness techniques. 
+Provide supportive, non-judgmental advice. Keep responses professional but warm (2-3 sentences). 
+Focus on active listening and helpful suggestions.
+
+Current conversation:
+User: User (feeling sad): I'm feeling sad right now.
+
+Jarvis:
+2025-06-11 10:48:47,125 - main - INFO - Attempt 1 with model llama3:8b
+2025-06-11 10:48:47,169 - main - INFO - Command executed in 0.04s: ollama run --temperature 0.7 llama3:8b You are Jarvis, a compassionate mental health assistant with training in CBT and mindfulness techniques. 
+Provide supportive, non-judgmental advice. Keep responses professional but warm (2-3 sentences). 
+Focus on active listening and helpful suggestions.
+
+Current conversation:
+User: User (feeling sad): I'm feeling sad right now.
+
+Jarvis:
+2025-06-11 10:48:47,169 - main - INFO - Attempt 1 with model llama3:70b
+2025-06-11 10:48:47,214 - main - INFO - Command executed in 0.04s: ollama run --temperature 0.7 llama3:70b You are Jarvis, a compassionate mental health assistant with training in CBT and mindfulness techniques. 
+Provide supportive, non-judgmental advice. Keep responses professional but warm (2-3 sentences). 
+Focus on active listening and helpful suggestions.
+
+Current conversation:
+User: User (feeling sad): I'm feeling sad right now.
+
+Jarvis:
+2025-06-11 10:48:47,214 - main - INFO - Attempt 2 with model llama3:latest
+2025-06-11 10:48:47,255 - main - INFO - Command executed in 0.04s: ollama run --temperature 0.7 llama3:latest You are Jarvis, a compassionate mental health assistant with training in CBT and mindfulness techniques. 
+Provide supportive, non-judgmental advice. Keep responses professional but warm (2-3 sentences). 
+Focus on active listening and helpful suggestions.
+
+Current conversation:
+User: User (feeling sad): I'm feeling sad right now.
+
+Jarvis:
+2025-06-11 10:48:47,255 - main - INFO - Attempt 2 with model llama3:8b
+2025-06-11 10:48:47,293 - main - INFO - Command executed in 0.04s: ollama run --temperature 0.7 llama3:8b You are Jarvis, a compassionate mental health assistant with training in CBT and mindfulness techniques. 
+Provide supportive, non-judgmental advice. Keep responses professional but warm (2-3 sentences). 
+Focus on active listening and helpful suggestions.
+
+Current conversation:
+User: User (feeling sad): I'm feeling sad right now.
+
+Jarvis:
+2025-06-11 10:48:47,293 - main - INFO - Attempt 2 with model llama3:70b
+2025-06-11 10:48:47,334 - main - INFO - Command executed in 0.04s: ollama run --temperature 0.7 llama3:70b You are Jarvis, a compassionate mental health assistant with training in CBT and mindfulness techniques. 
+Provide supportive, non-judgmental advice. Keep responses professional but warm (2-3 sentences). 
+Focus on active listening and helpful suggestions.
+
+Current conversation:
+User: User (feeling sad): I'm feeling sad right now.
+
+Jarvis:
+2025-06-11 10:48:47,334 - main - INFO - Attempt 3 with model llama3:latest
+2025-06-11 10:48:47,374 - main - INFO - Command executed in 0.04s: ollama run --temperature 0.7 llama3:latest You are Jarvis, a compassionate mental health assistant with training in CBT and mindfulness techniques. 
+Provide supportive, non-judgmental advice. Keep responses professional but warm (2-3 sentences). 
+Focus on active listening and helpful suggestions.
+
+Current conversation:
+User: User (feeling sad): I'm feeling sad right now.
+
+Jarvis:
+2025-06-11 10:48:47,374 - main - INFO - Attempt 3 with model llama3:8b
+2025-06-11 10:48:47,412 - main - INFO - Command executed in 0.04s: ollama run --temperature 0.7 llama3:8b You are Jarvis, a compassionate mental health assistant with training in CBT and mindfulness techniques. 
+Provide supportive, non-judgmental advice. Keep responses professional but warm (2-3 sentences). 
+Focus on active listening and helpful suggestions.
+
+Current conversation:
+User: User (feeling sad): I'm feeling sad right now.
+
+Jarvis:
+2025-06-11 10:48:47,413 - main - INFO - Attempt 3 with model llama3:70b
+2025-06-11 10:48:47,451 - main - INFO - Command executed in 0.04s: ollama run --temperature 0.7 llama3:70b You are Jarvis, a compassionate mental health assistant with training in CBT and mindfulness techniques. 
+Provide supportive, non-judgmental advice. Keep responses professional but warm (2-3 sentences). 
+Focus on active listening and helpful suggestions.
+
+Current conversation:
+User: User (feeling sad): I'm feeling sad right now.
+
+Jarvis:
+2025-06-11 10:48:47,452 - main - ERROR - All model attempts failed
+2025-06-11 10:48:49,998 - main - INFO - New request from 127.0.0.1
+2025-06-11 10:48:49,998 - main - INFO - Processing message: User (feeling anxious): I'm feeling anxious about things....
+2025-06-11 10:48:49,999 - main - INFO - Attempt 1 with model llama3:latest
+2025-06-11 10:48:50,044 - main - INFO - Command executed in 0.05s: ollama run --temperature 0.7 llama3:latest You are Jarvis, a compassionate mental health assistant with training in CBT and mindfulness techniques. 
+Provide supportive, non-judgmental advice. Keep responses professional but warm (2-3 sentences). 
+Focus on active listening and helpful suggestions.
+
+Current conversation:
+User: User (feeling anxious): I'm feeling anxious about things.
+
+Jarvis:
+2025-06-11 10:48:50,045 - main - INFO - Attempt 1 with model llama3:8b
+2025-06-11 10:48:50,085 - main - INFO - Command executed in 0.04s: ollama run --temperature 0.7 llama3:8b You are Jarvis, a compassionate mental health assistant with training in CBT and mindfulness techniques. 
+Provide supportive, non-judgmental advice. Keep responses professional but warm (2-3 sentences). 
+Focus on active listening and helpful suggestions.
+
+Current conversation:
+User: User (feeling anxious): I'm feeling anxious about things.
+
+Jarvis:
+2025-06-11 10:48:50,085 - main - INFO - Attempt 1 with model llama3:70b
+2025-06-11 10:48:50,132 - main - INFO - Command executed in 0.05s: ollama run --temperature 0.7 llama3:70b You are Jarvis, a compassionate mental health assistant with training in CBT and mindfulness techniques. 
+Provide supportive, non-judgmental advice. Keep responses professional but warm (2-3 sentences). 
+Focus on active listening and helpful suggestions.
+
+Current conversation:
+User: User (feeling anxious): I'm feeling anxious about things.
+
+Jarvis:
+2025-06-11 10:48:50,132 - main - INFO - Attempt 2 with model llama3:latest
+2025-06-11 10:48:50,179 - main - INFO - Command executed in 0.05s: ollama run --temperature 0.7 llama3:latest You are Jarvis, a compassionate mental health assistant with training in CBT and mindfulness techniques. 
+Provide supportive, non-judgmental advice. Keep responses professional but warm (2-3 sentences). 
+Focus on active listening and helpful suggestions.
+
+Current conversation:
+User: User (feeling anxious): I'm feeling anxious about things.
+
+Jarvis:
+2025-06-11 10:48:50,180 - main - INFO - Attempt 2 with model llama3:8b
+2025-06-11 10:48:50,226 - main - INFO - Command executed in 0.05s: ollama run --temperature 0.7 llama3:8b You are Jarvis, a compassionate mental health assistant with training in CBT and mindfulness techniques. 
+Provide supportive, non-judgmental advice. Keep responses professional but warm (2-3 sentences). 
+Focus on active listening and helpful suggestions.
+
+Current conversation:
+User: User (feeling anxious): I'm feeling anxious about things.
+
+Jarvis:
+2025-06-11 10:48:50,227 - main - INFO - Attempt 2 with model llama3:70b
+2025-06-11 10:48:50,266 - main - INFO - Command executed in 0.04s: ollama run --temperature 0.7 llama3:70b You are Jarvis, a compassionate mental health assistant with training in CBT and mindfulness techniques. 
+Provide supportive, non-judgmental advice. Keep responses professional but warm (2-3 sentences). 
+Focus on active listening and helpful suggestions.
+
+Current conversation:
+User: User (feeling anxious): I'm feeling anxious about things.
+
+Jarvis:
+2025-06-11 10:48:50,266 - main - INFO - Attempt 3 with model llama3:latest
+2025-06-11 10:48:50,306 - main - INFO - Command executed in 0.04s: ollama run --temperature 0.7 llama3:latest You are Jarvis, a compassionate mental health assistant with training in CBT and mindfulness techniques. 
+Provide supportive, non-judgmental advice. Keep responses professional but warm (2-3 sentences). 
+Focus on active listening and helpful suggestions.
+
+Current conversation:
+User: User (feeling anxious): I'm feeling anxious about things.
+
+Jarvis:
+2025-06-11 10:48:50,306 - main - INFO - Attempt 3 with model llama3:8b
+2025-06-11 10:48:50,346 - main - INFO - Command executed in 0.04s: ollama run --temperature 0.7 llama3:8b You are Jarvis, a compassionate mental health assistant with training in CBT and mindfulness techniques. 
+Provide supportive, non-judgmental advice. Keep responses professional but warm (2-3 sentences). 
+Focus on active listening and helpful suggestions.
+
+Current conversation:
+User: User (feeling anxious): I'm feeling anxious about things.
+
+Jarvis:
+2025-06-11 10:48:50,347 - main - INFO - Attempt 3 with model llama3:70b
+2025-06-11 10:48:50,383 - main - INFO - Command executed in 0.04s: ollama run --temperature 0.7 llama3:70b You are Jarvis, a compassionate mental health assistant with training in CBT and mindfulness techniques. 
+Provide supportive, non-judgmental advice. Keep responses professional but warm (2-3 sentences). 
+Focus on active listening and helpful suggestions.
+
+Current conversation:
+User: User (feeling anxious): I'm feeling anxious about things.
+
+Jarvis:
+2025-06-11 10:48:50,384 - main - ERROR - All model attempts failed
+2025-06-11 10:48:53,453 - main - INFO - New request from 127.0.0.1
+2025-06-11 10:48:53,453 - main - INFO - Processing message: I need someone to talk to...
+2025-06-11 10:48:53,453 - main - INFO - Attempt 1 with model llama3:latest
+2025-06-11 10:48:53,499 - main - INFO - Command executed in 0.05s: ollama run --temperature 0.7 llama3:latest You are Jarvis, a compassionate mental health assistant with training in CBT and mindfulness techniques. 
+Provide supportive, non-judgmental advice. Keep responses professional but warm (2-3 sentences). 
+Focus on active listening and helpful suggestions.
+
+Current conversation:
+User: I need someone to talk to
+
+Jarvis:
+2025-06-11 10:48:53,500 - main - INFO - Attempt 1 with model llama3:8b
+2025-06-11 10:48:53,545 - main - INFO - Command executed in 0.04s: ollama run --temperature 0.7 llama3:8b You are Jarvis, a compassionate mental health assistant with training in CBT and mindfulness techniques. 
+Provide supportive, non-judgmental advice. Keep responses professional but warm (2-3 sentences). 
+Focus on active listening and helpful suggestions.
+
+Current conversation:
+User: I need someone to talk to
+
+Jarvis:
+2025-06-11 10:48:53,545 - main - INFO - Attempt 1 with model llama3:70b
+2025-06-11 10:48:53,587 - main - INFO - Command executed in 0.04s: ollama run --temperature 0.7 llama3:70b You are Jarvis, a compassionate mental health assistant with training in CBT and mindfulness techniques. 
+Provide supportive, non-judgmental advice. Keep responses professional but warm (2-3 sentences). 
+Focus on active listening and helpful suggestions.
+
+Current conversation:
+User: I need someone to talk to
+
+Jarvis:
+2025-06-11 10:48:53,588 - main - INFO - Attempt 2 with model llama3:latest
+2025-06-11 10:48:53,628 - main - INFO - Command executed in 0.04s: ollama run --temperature 0.7 llama3:latest You are Jarvis, a compassionate mental health assistant with training in CBT and mindfulness techniques. 
+Provide supportive, non-judgmental advice. Keep responses professional but warm (2-3 sentences). 
+Focus on active listening and helpful suggestions.
+
+Current conversation:
+User: I need someone to talk to
+
+Jarvis:
+2025-06-11 10:48:53,629 - main - INFO - Attempt 2 with model llama3:8b
+2025-06-11 10:48:53,671 - main - INFO - Command executed in 0.04s: ollama run --temperature 0.7 llama3:8b You are Jarvis, a compassionate mental health assistant with training in CBT and mindfulness techniques. 
+Provide supportive, non-judgmental advice. Keep responses professional but warm (2-3 sentences). 
+Focus on active listening and helpful suggestions.
+
+Current conversation:
+User: I need someone to talk to
+
+Jarvis:
+2025-06-11 10:48:53,671 - main - INFO - Attempt 2 with model llama3:70b
+2025-06-11 10:48:53,710 - main - INFO - Command executed in 0.04s: ollama run --temperature 0.7 llama3:70b You are Jarvis, a compassionate mental health assistant with training in CBT and mindfulness techniques. 
+Provide supportive, non-judgmental advice. Keep responses professional but warm (2-3 sentences). 
+Focus on active listening and helpful suggestions.
+
+Current conversation:
+User: I need someone to talk to
+
+Jarvis:
+2025-06-11 10:48:53,710 - main - INFO - Attempt 3 with model llama3:latest
+2025-06-11 10:48:53,749 - main - INFO - Command executed in 0.04s: ollama run --temperature 0.7 llama3:latest You are Jarvis, a compassionate mental health assistant with training in CBT and mindfulness techniques. 
+Provide supportive, non-judgmental advice. Keep responses professional but warm (2-3 sentences). 
+Focus on active listening and helpful suggestions.
+
+Current conversation:
+User: I need someone to talk to
+
+Jarvis:
+2025-06-11 10:48:53,749 - main - INFO - Attempt 3 with model llama3:8b
+2025-06-11 10:48:53,786 - main - INFO - Command executed in 0.04s: ollama run --temperature 0.7 llama3:8b You are Jarvis, a compassionate mental health assistant with training in CBT and mindfulness techniques. 
+Provide supportive, non-judgmental advice. Keep responses professional but warm (2-3 sentences). 
+Focus on active listening and helpful suggestions.
+
+Current conversation:
+User: I need someone to talk to
+
+Jarvis:
+2025-06-11 10:48:53,787 - main - INFO - Attempt 3 with model llama3:70b
+2025-06-11 10:48:53,827 - main - INFO - Command executed in 0.04s: ollama run --temperature 0.7 llama3:70b You are Jarvis, a compassionate mental health assistant with training in CBT and mindfulness techniques. 
+Provide supportive, non-judgmental advice. Keep responses professional but warm (2-3 sentences). 
+Focus on active listening and helpful suggestions.
+
+Current conversation:
+User: I need someone to talk to
+
+Jarvis:
+2025-06-11 10:48:53,827 - main - ERROR - All model attempts failed
+2025-06-11 10:48:58,429 - main - INFO - New request from 127.0.0.1
+2025-06-11 10:48:58,429 - main - INFO - Processing message: Can you help me relax?...
+2025-06-11 10:48:58,429 - main - INFO - Attempt 1 with model llama3:latest
+2025-06-11 10:48:58,479 - main - INFO - Command executed in 0.05s: ollama run --temperature 0.7 llama3:latest You are Jarvis, a compassionate mental health assistant with training in CBT and mindfulness techniques. 
+Provide supportive, non-judgmental advice. Keep responses professional but warm (2-3 sentences). 
+Focus on active listening and helpful suggestions.
+
+Current conversation:
+User: Can you help me relax?
+
+Jarvis:
+2025-06-11 10:48:58,480 - main - INFO - Attempt 1 with model llama3:8b
+2025-06-11 10:48:58,523 - main - INFO - Command executed in 0.04s: ollama run --temperature 0.7 llama3:8b You are Jarvis, a compassionate mental health assistant with training in CBT and mindfulness techniques. 
+Provide supportive, non-judgmental advice. Keep responses professional but warm (2-3 sentences). 
+Focus on active listening and helpful suggestions.
+
+Current conversation:
+User: Can you help me relax?
+
+Jarvis:
+2025-06-11 10:48:58,524 - main - INFO - Attempt 1 with model llama3:70b
+2025-06-11 10:48:58,571 - main - INFO - Command executed in 0.05s: ollama run --temperature 0.7 llama3:70b You are Jarvis, a compassionate mental health assistant with training in CBT and mindfulness techniques. 
+Provide supportive, non-judgmental advice. Keep responses professional but warm (2-3 sentences). 
+Focus on active listening and helpful suggestions.
+
+Current conversation:
+User: Can you help me relax?
+
+Jarvis:
+2025-06-11 10:48:58,572 - main - INFO - Attempt 2 with model llama3:latest
+2025-06-11 10:48:58,613 - main - INFO - Command executed in 0.04s: ollama run --temperature 0.7 llama3:latest You are Jarvis, a compassionate mental health assistant with training in CBT and mindfulness techniques. 
+Provide supportive, non-judgmental advice. Keep responses professional but warm (2-3 sentences). 
+Focus on active listening and helpful suggestions.
+
+Current conversation:
+User: Can you help me relax?
+
+Jarvis:
+2025-06-11 10:48:58,614 - main - INFO - Attempt 2 with model llama3:8b
+2025-06-11 10:48:58,654 - main - INFO - Command executed in 0.04s: ollama run --temperature 0.7 llama3:8b You are Jarvis, a compassionate mental health assistant with training in CBT and mindfulness techniques. 
+Provide supportive, non-judgmental advice. Keep responses professional but warm (2-3 sentences). 
+Focus on active listening and helpful suggestions.
+
+Current conversation:
+User: Can you help me relax?
+
+Jarvis:
+2025-06-11 10:48:58,655 - main - INFO - Attempt 2 with model llama3:70b
+2025-06-11 10:48:58,696 - main - INFO - Command executed in 0.04s: ollama run --temperature 0.7 llama3:70b You are Jarvis, a compassionate mental health assistant with training in CBT and mindfulness techniques. 
+Provide supportive, non-judgmental advice. Keep responses professional but warm (2-3 sentences). 
+Focus on active listening and helpful suggestions.
+
+Current conversation:
+User: Can you help me relax?
+
+Jarvis:
+2025-06-11 10:48:58,696 - main - INFO - Attempt 3 with model llama3:latest
+2025-06-11 10:48:58,732 - main - INFO - Command executed in 0.04s: ollama run --temperature 0.7 llama3:latest You are Jarvis, a compassionate mental health assistant with training in CBT and mindfulness techniques. 
+Provide supportive, non-judgmental advice. Keep responses professional but warm (2-3 sentences). 
+Focus on active listening and helpful suggestions.
+
+Current conversation:
+User: Can you help me relax?
+
+Jarvis:
+2025-06-11 10:48:58,733 - main - INFO - Attempt 3 with model llama3:8b
+2025-06-11 10:48:58,770 - main - INFO - Command executed in 0.04s: ollama run --temperature 0.7 llama3:8b You are Jarvis, a compassionate mental health assistant with training in CBT and mindfulness techniques. 
+Provide supportive, non-judgmental advice. Keep responses professional but warm (2-3 sentences). 
+Focus on active listening and helpful suggestions.
+
+Current conversation:
+User: Can you help me relax?
+
+Jarvis:
+2025-06-11 10:48:58,771 - main - INFO - Attempt 3 with model llama3:70b
+2025-06-11 10:48:58,808 - main - INFO - Command executed in 0.04s: ollama run --temperature 0.7 llama3:70b You are Jarvis, a compassionate mental health assistant with training in CBT and mindfulness techniques. 
+Provide supportive, non-judgmental advice. Keep responses professional but warm (2-3 sentences). 
+Focus on active listening and helpful suggestions.
+
+Current conversation:
+User: Can you help me relax?
+
+Jarvis:
+2025-06-11 10:48:58,808 - main - ERROR - All model attempts failed
