@@ -1,0 +1,286 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ===== BASE LAYER ===== */
+@layer base {
+    * {
+        box-sizing: border-box;
+    }
+
+    html {
+        scroll-behavior: smooth;
+    }
+
+    body {
+        margin: 0;
+        font-family: 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell',
+            'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        line-height: 1.6;
+        background: linear-gradient(135deg, #0f0f17, #1a1a2e);
+    }
+
+    button {
+        border: none;
+        background: none;
+        cursor: pointer;
+    }
+
+    input {
+        border: none;
+        outline: none;
+    }
+}
+
+/* ===== COMPONENTS LAYER ===== */
+@layer components {
+    .btn-primary {
+        @apply bg-gradient-to-r from-blue-500 to-purple-600 text-white px-6 py-3 rounded-xl font-medium transition-all duration-200 transform hover:scale-105 shadow-glow;
+    }
+
+    .btn-secondary {
+        @apply bg-gray-200 text-gray-700 px-4 py-2 rounded-lg font-medium transition-all duration-200 hover:bg-gray-300;
+    }
+
+    .card {
+        @apply rounded-2xl p-6 shadow-xl backdrop-blur-sm border transition-all duration-500;
+    }
+
+    .card-dark {
+        @apply bg-gray-900 border-gray-800 shadow-glow-dark;
+    }
+
+    .card-light {
+        @apply bg-white/70 border-gray-200 shadow-glow-light;
+    }
+
+    .input-field {
+        @apply w-full px-4 py-3 rounded-xl border focus:outline-none focus:ring-2 transition-all duration-200;
+    }
+
+    .input-dark {
+        @apply bg-gray-700 border-gray-600 text-white placeholder-gray-400 focus:ring-blue-500;
+    }
+
+    .input-light {
+        @apply bg-white border-gray-300 text-gray-900 placeholder-gray-500 focus:ring-blue-500;
+    }
+}
+
+/* ===== UTILITIES LAYER ===== */
+@layer utilities {
+    .hover-glow:hover {
+        box-shadow: 0 0 20px rgba(0, 255, 255, 0.6), 0 0 40px rgba(0, 255, 255, 0.3);
+        transform: scale(1.03);
+        transition: all 0.3s ease-in-out;
+    }
+
+    .active-glow:active {
+        box-shadow: 0 0 30px rgba(0, 255, 255, 0.8), 0 0 60px rgba(0, 255, 255, 0.4);
+        transform: scale(0.97);
+    }
+
+    .text-gradient {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+    }
+
+    .shadow-glow {
+        box-shadow: 0 0 20px rgba(139, 92, 246, 0.5);
+    }
+
+    .shadow-glow-dark {
+        box-shadow: 0 0 30px rgba(50, 50, 100, 0.6);
+    }
+
+    .shadow-glow-light {
+        box-shadow: 0 0 15px rgba(255, 255, 255, 0.4);
+    }
+
+    .will-transform {
+        will-change: transform, opacity;
+    }
+
+    .animate-breathe {
+        animation: breathe 8s ease-in-out infinite;
+    }
+
+    .animate-fade-in {
+        animation: fade-in 0.6s ease-out;
+    }
+
+    .animate-slideFadeIn {
+        animation: slideFadeIn 0.4s ease-out forwards;
+    }
+
+    .animate-subtle-pulse {
+        animation: subtlePulse 8s ease-in-out infinite;
+    }
+
+    .animate-expand-glow {
+        animation: expandGlow 0.8s ease-out forwards;
+    }
+
+    .animate-float {
+        animation: float 3s ease-in-out infinite;
+    }
+
+    /* Mood/Meditation Background Modes */
+    .meditation-mode-calm {
+        background: linear-gradient(270deg, #4a90e2, #6b5b95);
+        animation: meditationBackground 10s ease infinite;
+    }
+
+    .meditation-mode-energy {
+        background: linear-gradient(270deg, #ff4500, #dc143c);
+        animation: meditationBackground 8s ease infinite;
+    }
+
+    .meditation-mode-deep {
+        background: linear-gradient(270deg, #32cd32, #008080);
+        animation: meditationBackground 12s ease infinite;
+    }
+}
+
+/* ===== KEYFRAMES ===== */
+@keyframes breathe {
+
+    0%,
+    100% {
+        transform: scale(1);
+        opacity: 0.7;
+    }
+
+    50% {
+        transform: scale(1.2);
+        opacity: 1;
+    }
+}
+@keyframes breatheBackground {
+
+    0%,
+    100% {
+        opacity: 0.8;
+        transform: scale(1);
+    }
+
+    50% {
+        opacity: 1;
+        transform: scale(1.02);
+    }
+}
+
+.meditation-background {
+    animation: breatheBackground 8s ease-in-out infinite; }
+
+.animate-breathe {
+    animation: breathe 8s ease-in-out infinite; }
+
+    @keyframes fade-in {
+            0% {
+                opacity: 0.95;
+                transform: translateY(-4px);
+            }
+    
+            100% {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+    
+        
+.animate-fade-in {
+            animation: fade-in 0.6s ease-out forwards;     }
+@keyframes glowPulse {
+
+    0%,
+    100% {
+        box-shadow: 0 0 6px rgba(255, 255, 255, 0.4);
+    }
+
+    50% {
+        box-shadow: 0 0 18px rgba(255, 255, 255, 0.9);
+    }
+}
+
+@keyframes pulse {
+
+    0%,
+    100% {
+        opacity: 1;
+    }
+
+    50% {
+        opacity: 0.5;
+    }
+}
+
+@keyframes float {
+
+    0%,
+    100% {
+        transform: translateY(0px);
+    }
+
+    50% {
+        transform: translateY(-10px);
+    }
+}
+
+@keyframes slideFadeIn {
+    0% {
+        opacity: 0;
+        transform: translateY(8px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes expandGlow {
+    0% {
+        transform: scale(0.8);
+        opacity: 0;
+        box-shadow: 0 0 10px rgba(0, 255, 255, 0.3);
+    }
+
+    100% {
+        transform: scale(1.2);
+        opacity: 1;
+        box-shadow: 0 0 60px rgba(0, 255, 255, 0.6);
+    }
+}
+
+@keyframes subtlePulse {
+
+    0%,
+    100% {
+        transform: scale(1);
+        opacity: 0.95;
+    }
+
+    50% {
+        transform: scale(1.03);
+        opacity: 1;
+    }
+}
+
+@keyframes meditationBackground {
+    0% {
+        background-position: 0% 50%;
+    }
+
+    50% {
+        background-position: 100% 50%;
+    }
+
+    100% {
+        background-position: 0% 50%;
+    }
+}
