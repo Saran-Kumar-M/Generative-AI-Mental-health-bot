@@ -6,7 +6,7 @@ An intelligent, calming chatbot built with **React + Tailwind CSS + TypeScript**
 
 ---
 
-## 🌐 Live Preview (if hosted)
+## 🌐 Live Preview (soon)
 > _Coming soon!_
 
 ---
@@ -42,11 +42,3 @@ mental-health-bot/
 - **Local AI Runtime:** Meta's LLaMA 3 model
 
 ---
-
-## 🚀 Getting Started
-
-### 1. Clone the Repo
-
-```bash
-git clone https://github.com/YOUR_USERNAME/mental-health-bot.git
-cd mental-health-bot
